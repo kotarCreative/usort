@@ -1,0 +1,7 @@
+-   id: usort
+    name: usort
+    description: '`usort` is a command-line utility for enforcing import consistency across Python projects.'
+    entry: usort
+    language: python
+    types: [python]
+    require_serial: true
